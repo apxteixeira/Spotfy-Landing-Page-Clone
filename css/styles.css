@@ -37,6 +37,11 @@ a:visited {
    
 }
 
+header a{
+    color: #fff;
+}
+
+
 
 @keyframes slideIn {
     0% {
